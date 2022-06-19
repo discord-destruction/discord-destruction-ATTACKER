@@ -4,7 +4,7 @@ The Attacker Version Of Discord Destruction Meant For A Attacker To Do Destructi
 
 ---------------------
 
-I Am Not Responsible For Any Lack Of Damage Made Using This Tool. As It Is Not My Damage That I Occured, It Is Yours And How You Use This Tool.
+I Am Not Responsible For Any Lack Of Damage Made Using This Tool.
 
 ---------------------
 
