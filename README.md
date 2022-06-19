@@ -9,7 +9,7 @@ I Am Not Responsible For Any Lack Of Damage Made Using This Tool. As It Is Not M
 ---------------------
 
 
-You Can Find The Releases Here: https://github.com/discord-destruction/discord-mass-dm-py-selfbot/releases
+You Can Find The Releases Here: https://github.com/discord-destruction/discord-destruction-ATTACKER/releases
 
 
 
