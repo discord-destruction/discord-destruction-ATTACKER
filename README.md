@@ -1,10 +1,6 @@
 # discord-destruction-ATTACKER
 The Attacker Version Of Discord Destruction Meant For A Attacker To Do Destruction Activites To Users Via Terminal
 
-
-***Made By Cwz6h And LoganTheDudeRox :)***
-
-
 ---------------------
 
 I Am Not Responsible For Any Lack Of Damage Made Using This Tool.
@@ -30,3 +26,6 @@ If You Are Not On A Windows OS. Then Go To The "sources" Folder And Open A Termi
 ```
 python3 build.py build
 ```
+
+
+***Made By Cwz6h And LoganTheDudeRox :)***
