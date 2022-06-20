@@ -96,5 +96,9 @@ async def on_ready():
     else:
         print('ok, no account bombing/destruction today\nsee ya!\nPress CTRL+C To Exit')
 
-
-bot.run(token_to_destroy)
+try:
+    bot.run(token_to_destroy)
+except:
+    print("An Invalid Token Was Passed!\nPress CTRL+C Or ENTER To Exit")
+    input()
+    pass
