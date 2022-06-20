@@ -2,7 +2,7 @@
 The Attacker Version Of Discord Destruction Meant For A Attacker To Do Destruction Activites To Users Via Terminal
 
 
-***Made By Cwz6h And LoganTheDudeRox :)
+***Made By Cwz6h And LoganTheDudeRox :)***
 
 
 ---------------------
